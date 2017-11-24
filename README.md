@@ -14,20 +14,24 @@ Portfolio-based approach to learning Haskell
 
 ## Ideas for future exercises
 
-1. Something with concurrent programming using threads
-2. Usage of MVar
-3. distributed-process
+### Something with concurrent programming using threads
+### Usage of MVar
+### distributed-process
 - implement ping-pong
 - implement chat server
-4. Exercise that uses extension: OverloadedStrings
-5. Exercise that uses extension: BangPatterns
-6. Exercise that uses extension: GADTs
-7. Exercise that uses extension: DeriveFunctor
-8. Exercise that uses extension: DeriveGeneric
-9. Exercise that uses extension: LambdaCase
-10. Exercise that uses extension: ScopedTypeVariables
-11. Exercise that uses extension: DeriveFoldable
-12. Exercise that uses extension: RankNTypes
-13. Exercise that uses extension: GeneralizedNewtypeDerivin
+### Exercise that uses extension: OverloadedStrings
+### Exercise that uses extension: BangPatterns
+### Exercise that uses extension: GADTs
+### Exercise that uses extension: DeriveFunctor
+### Exercise that uses extension: DeriveGeneric
+### Exercise that uses extension: LambdaCase
+### Exercise that uses extension: ScopedTypeVariables
+### Exercise that uses extension: DeriveFoldable
+### Exercise that uses extension: RankNTypes
+### Exercise that uses extension: GeneralizedNewtypeDerivin
+### CRUD logic
+Create program holding some CRUD logic (like Library where you can borrow, return, remove and list all books).
+### Simple CRUD http server with Servant (https://haskell-servant.github.io/)
+### Simple CRUD web application with YASOD
 
 
