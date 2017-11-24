@@ -14,8 +14,17 @@ Portfolio-based approach to learning Haskell
 
 ## Ideas for future exercises
 
+### CRUD logic
+Create program holding some CRUD logic (like Library where you can borrow, return, remove and list all books).
+### Simple CRUD http server with Servant (https://haskell-servant.github.io/)
+### Simple CRUD web application with YASOD
 ### Something with concurrent programming using threads
 ### Usage of MVar
+### Learning Free by creating file system abstraction (FSA)
+### Implement FSA for Hadoop
+### Implement FSA for ElasticSearch
+### Implement FSA for Postgress
+### Implement FSA for Cassandra
 ### distributed-process
 - implement ping-pong
 - implement chat server
@@ -29,9 +38,6 @@ Portfolio-based approach to learning Haskell
 ### Exercise that uses extension: DeriveFoldable
 ### Exercise that uses extension: RankNTypes
 ### Exercise that uses extension: GeneralizedNewtypeDerivin
-### CRUD logic
-Create program holding some CRUD logic (like Library where you can borrow, return, remove and list all books).
-### Simple CRUD http server with Servant (https://haskell-servant.github.io/)
-### Simple CRUD web application with YASOD
+
 
 
