@@ -30,16 +30,13 @@ Write "Reverse Polish notation calculator". Program runs forever where it:
 a) if it is a valid expression, it will evaluate its value
 b) if it is an invalid input (not an expression) then it will warn user about it
 
-* Reading material*:
-1. ["Learn you a Haskell" on Reverse Polish notation](http://learnyouahaskell.com/functionally-solving-problems)
+*Reading material:*
 
+1. ["Learn you a Haskell" on Reverse Polish notation](http://learnyouahaskell.com/functionally-solving-problems)
+2. "Haskell - Programming from first Principles" by Ch.Allen & J.Moronuki chapter 24 "Parser Combinators"
+3. "Programming Haskell" by Graham Hutton, chapter 8 "Functional Parsers"
 
 ## Ideas for future exercises
-
-### Simple calculator (I think I heard that already from someone ;) )
-
-### Simple language parser (could be an extension of above [Polish notation maybe?])
-
 ### CRUD logic
 Create program holding some CRUD logic (like Library where you can borrow, return, remove and list all books).
 ### Simple CRUD http server with Servant (https://haskell-servant.github.io/)
