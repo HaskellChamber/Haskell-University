@@ -12,6 +12,8 @@ Things you will learn:
 2. using the `IO` type
 3. divide project to modules
 
+Write program that:
+
 1. Write program that prints out "Hello worlds" and terminates
 2. Write program that welcomes user, asks for his/her name, greets user and terminates
 3. Write program that will run program 2. in an infinte loop
