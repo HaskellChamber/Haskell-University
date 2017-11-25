@@ -11,6 +11,28 @@ Portfolio-based approach to learning Haskell
 2. Write program that welcomes user, asks for his/her name, greets user and terminates
 3. Write program that will run program 2. in an infinte loop
 
+Things to learn:
+1. Init new Haskell project
+2. using the `IO` type
+3. divide project to modules
+
+*hints: 
+import Control.Monad (forever)
+
+### 2. Reverse Polish notation calculator
+
+*deadline: 1 week*
+
+Write "Reverse Polish notation calculator". Program runs forever where it:
+1. promts user for the input expression (written in Reverse Polish notation)
+2. reads user input
+3. evaluates user input:
+a) if it is a valid expression, it will evaluate its value
+b) if it is an invalid input (not an expression) then it will warn user about it
+
+* Reading material*:
+1. ["Learn you a Haskell" on Reverse Polish notation](http://learnyouahaskell.com/functionally-solving-problems)
+
 
 ## Ideas for future exercises
 
