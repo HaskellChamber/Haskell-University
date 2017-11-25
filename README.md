@@ -14,6 +14,10 @@ Portfolio-based approach to learning Haskell
 
 ## Ideas for future exercises
 
+### Simple calculator (I think I heard that already from someone ;) )
+
+### Simple language parser (could be an extension of above [Polish notation maybe?])
+
 ### CRUD logic
 Create program holding some CRUD logic (like Library where you can borrow, return, remove and list all books).
 ### Simple CRUD http server with Servant (https://haskell-servant.github.io/)
