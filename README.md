@@ -7,21 +7,25 @@ Portfolio-based approach to learning Haskell
 
 *deadline: 1 week*
 
+Things you will learn:
+1. Init new Haskell project
+2. using the `IO` type
+3. divide project to modules
+
 1. Write program that prints out "Hello worlds" and terminates
 2. Write program that welcomes user, asks for his/her name, greets user and terminates
 3. Write program that will run program 2. in an infinte loop
 
-Things to learn:
-1. Init new Haskell project
-2. using the `IO` type
-3. divide project to modules
 
 *hints: 
 import Control.Monad (forever)
 
 ### 2. Reverse Polish notation calculator
 
-*deadline: 1 week*
+*deadline: X week*
+
+Things you will learn:
+1. Parser combinators
 
 Write "Reverse Polish notation calculator". Program runs forever where it:
 1. promts user for the input expression (written in Reverse Polish notation)
@@ -35,6 +39,12 @@ b) if it is an invalid input (not an expression) then it will warn user about it
 1. ["Learn you a Haskell" on Reverse Polish notation](http://learnyouahaskell.com/functionally-solving-problems)
 2. "Haskell - Programming from first Principles" by Ch.Allen & J.Moronuki chapter 24 "Parser Combinators"
 3. "Programming Haskell" by Graham Hutton, chapter 8 "Functional Parsers"
+
+### 3. Advanced Reverse Polish notation calculator
+
+*deadline: X week*
+
+State monad + one more parser
 
 ## Ideas for future exercises
 ### CRUD logic
