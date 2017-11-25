@@ -62,5 +62,11 @@ Create program holding some CRUD logic (like Library where you can borrow, retur
 ### Exercise that uses extension: RankNTypes
 ### Exercise that uses extension: GeneralizedNewtypeDerivin
 
+## Inspiraton talks
+
+Talks that go beyond "what is functor"
+
+https://www.youtube.com/watch?v=CT0HvjWoIqE
+
 
 
