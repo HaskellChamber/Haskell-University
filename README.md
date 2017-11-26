@@ -145,6 +145,8 @@ Create program holding some CRUD logic (like Library where you can borrow, retur
 ### Testing tools 
 #### Quickcheck
 #### HUnit?
+### TicTacToe in Haskell
+Sth like https://www.youtube.com/playlist?list=PLguYJK7ydFE7KBfUplAk_qLp--xG6gw3R (maybe even rip off :) )
 
 ## Inspiraton talks
 
