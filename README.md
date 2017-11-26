@@ -7,7 +7,7 @@ Portfolio-based approach to learning Haskell
 | ------------------------------------------------------------------------------- | ----------------:|
 | 1. [Hello World](#1-hello-world)                                                | 03 December 2017 |
 | 2. [Reverse Polish notation calculator](#2-reverse-polish-notation-calculator)  | 10 December 2017 |
-| 3. [Advanced Calculator]()  | 17 December 2017 |
+| 3. [Advanced Calculator](#3-advanced-calculator)                                | 17 December 2017 |
 
 ## Exercises 
 
