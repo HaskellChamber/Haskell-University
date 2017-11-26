@@ -1,6 +1,12 @@
 # Haskell-University
 Portfolio-based approach to learning Haskell
 
+## New semster just started!
+
+| Exercise             | Deadline      |
+| -------------------- | -------------:|
+| 1. Hello World       | right-aligned |
+
 ## Exercises 
 
 ### 1. Hello World 
