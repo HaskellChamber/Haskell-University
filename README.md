@@ -47,7 +47,21 @@ Nice to meet you Pawel
 
 3. Write program that will run program 2. in an infinte loop
 
-*hints: 
+```
+$ stack exec exercise1-exe
+Hello, what is your name?
+Pawel
+Nice to meet you Pawel
+Hello, what is your name?
+Mike
+Nice to meet you Mike
+Hello, what is your name?
+Kate
+Nice to meet you Kate
+Hello, what is your name?
+```
+
+*hints*: 
 import Control.Monad (forever)
 
 ### 2. Reverse Polish notation calculator
