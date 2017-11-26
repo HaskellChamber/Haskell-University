@@ -99,6 +99,9 @@ Create program holding some CRUD logic (like Library where you can borrow, retur
 ### Exercise that uses extension: DeriveFoldable
 ### Exercise that uses extension: RankNTypes
 ### Exercise that uses extension: GeneralizedNewtypeDerivin
+### Testing tools 
+#### Quickcheck
+#### HUnit?
 
 ## Inspiraton talks
 
