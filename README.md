@@ -3,6 +3,13 @@ Portfolio-based approach to learning Haskell
 
 ## New semster just started!
 
+First edition of Haskell University just started! You can join by adding your name to the list of students with a link to the repository where you will push your solutions to the exercies.
+
+| Student         | Repository                                                                  |
+| --------------- | --------------------------------------------------------------------------- |
+| Pawel Szulc     | [solutions](https://github.com/rabbitonweb/HaskellUniversity-semester1)     |
+
+
 | Exercise                                                                        | Deadline         |
 | ------------------------------------------------------------------------------- | ----------------:|
 | 1. [Hello World](#1-hello-world)                                                | 03 December 2017 |
