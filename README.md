@@ -5,7 +5,7 @@ Portfolio-based approach to learning Haskell
 
 | Exercise             | Deadline      |
 | -------------------- | -------------:|
-| 1. Hello World       | right-aligned |
+| 1. [Hello World](#1-hello-world)       | right-aligned |
 
 ## Exercises 
 
