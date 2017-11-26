@@ -7,8 +7,8 @@ Portfolio-based approach to learning Haskell
 
 *deadline: 1 week*
 
-Things you will learn:
-1. Init new Haskell project
+We will cover:
+1. How to init new Haskell project
 2. using the `IO` type
 3. divide project to modules
 
@@ -18,23 +18,35 @@ Write program that:
 2. Write program that welcomes user, asks for his/her name, greets user and terminates
 3. Write program that will run program 2. in an infinte loop
 
-
 *hints: 
 import Control.Monad (forever)
 
 ### 2. Reverse Polish notation calculator
 
-*deadline: X week*
+*deadline: 2 week*s
 
-Things you will learn:
+We will cover:
 1. Parser combinators
 
 Write "Reverse Polish notation calculator". Program runs forever where it:
-1. promts user for the input expression (written in Reverse Polish notation)
+1. promts user for the input expression (written in [Reverse Polish notation](https://en.wikipedia.org/wiki/Reverse_Polish_notation)
 2. reads user input
 3. evaluates user input:
 a) if it is a valid expression, it will evaluate its value
 b) if it is an invalid input (not an expression) then it will warn user about it
+
+Example:
+
+```
+> + 20 10
+30
+> - 100 80
+20
+> / 10 2
+5
+> / "10" sdfsd
+Could not evaluate '/ "10" sdfsd'
+```
 
 *Reading material:*
 
@@ -46,7 +58,21 @@ b) if it is an invalid input (not an expression) then it will warn user about it
 
 *deadline: X week*
 
-State monad + one more parser
+We will cover:
+1. State monad
+
+Add new feature to the calculator you implemented in Exercise 2. This time each time you evaluate an expression, its value is printed out along the name of the variable that will hold its value. That variable can be used in further calculations.
+
+Example:
+
+```
+> + 20 10
+res0: 30
+> - 100 res0
+res1: 70
+> / res1 res50
+Could not evaluate '/ res1 res50'
+```
 
 ## Ideas for future exercises
 ### CRUD logic
@@ -79,6 +105,6 @@ Create program holding some CRUD logic (like Library where you can borrow, retur
 Talks that go beyond "what is functor"
 
 https://www.youtube.com/watch?v=CT0HvjWoIqE
-
+https://www.youtube.com/watch?v=77RXha9tU_k
 
 
