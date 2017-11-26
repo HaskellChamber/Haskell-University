@@ -38,14 +38,14 @@ b) if it is an invalid input (not an expression) then it will warn user about it
 Example:
 
 ```
-> + 20 10
+> 10 20 +
 30
-> - 100 80
+> 100 80 -
 20
-> / 10 2
+> 10 2 /
 5
-> / "10" sdfsd
-Could not evaluate '/ "10" sdfsd'
+> 10 sdfsd /
+Could not evaluate '10 sdfsd /'
 ```
 
 *Reading material:*
@@ -66,12 +66,12 @@ Add new feature to the calculator you implemented in Exercise 2. This time each 
 Example:
 
 ```
-> + 20 10
+> 20 10 +
 res0: 30
-> - 100 res0
+> 100 res0 -
 res1: 70
-> / res1 res50
-Could not evaluate '/ res1 res50'
+> res1 res50 /
+Could not evaluate 'res1 res50 /'
 ```
 
 ## Ideas for future exercises
