@@ -3,9 +3,11 @@ Portfolio-based approach to learning Haskell
 
 ## New semster just started!
 
-| Exercise             | Deadline      |
-| -------------------- | -------------:|
-| 1. [Hello World](#1-hello-world)       | right-aligned |
+| Exercise                                                                        | Deadline         |
+| ------------------------------------------------------------------------------- | ----------------:|
+| 1. [Hello World](#1-hello-world)                                                | 03 December 2017 |
+| 2. [Reverse Polish notation calculator](#2-reverse-polish-notation-calculator)  | 10 December 2017 |
+| 3. [Advanced Calculator]()  | 17 December 2017 |
 
 ## Exercises 
 
@@ -29,7 +31,7 @@ import Control.Monad (forever)
 
 ### 2. Reverse Polish notation calculator
 
-*deadline: 2 week*s
+*deadline: 1 week*
 
 We will cover:
 1. Parser combinators
@@ -60,9 +62,9 @@ Could not evaluate '10 sdfsd /'
 2. "Haskell - Programming from first Principles" by Ch.Allen & J.Moronuki chapter 24 "Parser Combinators"
 3. "Programming Haskell" by Graham Hutton, chapter 8 "Functional Parsers"
 
-### 3. Advanced Reverse Polish notation calculator
+### 3. Advanced Calculator
 
-*deadline: X week*
+*deadline: 1 week*
 
 We will cover:
 1. State monad
