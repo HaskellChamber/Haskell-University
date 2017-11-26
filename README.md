@@ -30,7 +30,21 @@ We will cover:
 Write program that:
 
 1. Write program that prints out "Hello worlds" and terminates
+
+```
+$ stack exec exercise1-exe
+Hello World
+```
+
 2. Write program that welcomes user, asks for his/her name, greets user and terminates
+
+```
+$ stack exec exercise1-exe
+Hello, what is your name?
+Pawel
+Nice to meet you Pawel
+```
+
 3. Write program that will run program 2. in an infinte loop
 
 *hints: 
