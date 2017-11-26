@@ -1,4 +1,6 @@
 # Haskell-University
+
+[![Join the chat at https://gitter.im/HaskellChamber/Haskell-University](https://badges.gitter.im/HaskellChamber/Haskell-University.svg)](https://gitter.im/HaskellChamber/Haskell-University?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Portfolio-based approach to learning Haskell
 
 ## New semster just started!
