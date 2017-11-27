@@ -10,6 +10,7 @@ First edition of Haskell University just started! You can join by adding your na
 | Student         | Repository                                                                  |
 | --------------- | --------------------------------------------------------------------------- |
 | Pawel Szulc     | [solutions](https://github.com/rabbitonweb/HaskellUniversity-semester1)     |
+| Lukasz Byczynski| [solutions](https://github.com/LukaszByczynski/HaskellUniversity-semester1) |
 
 
 | Exercise                                                                        | Deadline         |
