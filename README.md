@@ -69,6 +69,8 @@ import Control.Monad (forever)
 
 ### 2. Fun with lists
 
+*deadline: 1 week*
+
 We will cover:
 1. List API
 2. Property based testing using Quick Check
@@ -76,10 +78,12 @@ We will cover:
 
 This week we will do exercies that appear occasionally at job interviews: Quicksort algorithm and FizzBuzz. Both solutions should manifest the beauty of the Haskell language - once you are done, just compare them with anything written in any other programming language. 
 They are both perfect for mastering some functions available for `List`. They also help get intuition when reasoning about lazy evaluation.
+Quicksort implementation will require to understand concept of a typeclass and usage of an `Ord` typeclass.
+We will also have to test our solutions, so this is great opportunity to introduce QuickCheck.
 
 #### Quick Sort for list of integers
 
-1. Implement a quick sort algorithm that will take list of integers as an input and return list of integers as an output
+1. Implement a quick sort algorithm that will take list of integers as an input and return sorted list of integers as an output
 2. Write property based tests using QuickCheck that will test your solution
 
 #### Quick Sort for everyone!
