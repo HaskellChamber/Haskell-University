@@ -16,8 +16,10 @@ First edition of Haskell University just started! You can join by adding your na
 | Exercise                                                                        | Deadline         |
 | ------------------------------------------------------------------------------- | ----------------:|
 | 1. [Hello World](#1-hello-world)                                                | 03 December 2017 |
-| 2. [Reverse Polish notation calculator](#2-reverse-polish-notation-calculator)  | 10 December 2017 |
-| 3. [Advanced Calculator](#3-advanced-calculator)                                | 17 December 2017 |
+| 2. Fun with lists                                                               | 10 December 2017 |
+| 3. Apples and oranges                                                           | 17 December 2017 |
+| 4. [Reverse Polish notation calculator](#4-reverse-polish-notation-calculator)  | 31 December 2017 |
+| 5. [Advanced Calculator](#5-advanced-calculator)                                | 07 January  2018 |
 
 ## Exercises 
 
@@ -30,16 +32,14 @@ We will cover:
 2. using the `IO` type
 3. divide project to modules
 
-Write program that:
-
-1. Write program that prints out "Hello worlds" and terminates
+#### 1. Write program that prints out "Hello worlds" and terminates
 
 ```
 $ stack exec exercise1-exe
 Hello World
 ```
 
-2. Write program that welcomes user, asks for his/her name, greets user and terminates
+#### 2. Write program that welcomes user, asks for his/her name, greets user and terminates
 
 ```
 $ stack exec exercise1-exe
@@ -48,7 +48,7 @@ Pawel
 Nice to meet you Pawel
 ```
 
-3. Write program that will run program 2. in an infinte loop
+#### 3. Write program that will run program 2. in an infinte loop
 
 ```
 $ stack exec exercise1-exe
@@ -67,7 +67,34 @@ Hello, what is your name?
 *hints*: 
 import Control.Monad (forever)
 
-### 2. Reverse Polish notation calculator
+### 2. Fun with lists
+
+We will cover:
+1. List API
+2. Property based testing using Quick Check
+3. Our first typeclass: `Ord`
+
+This week we will do exercies that appear occasionally at job interviews: Quicksort algorithm and FizzBuzz. Both solutions should manifest the beauty of the Haskell language - once you are done, just compare them with anything written in any other programming language. 
+They are both perfect for mastering some functions available for `List`. They also help get intuition when reasoning about lazy evaluation.
+
+#### Quick Sort for list of integers
+
+1. Implement a quick sort algorithm that will take list of integers as an input and return list of integers as an output
+2. Write property based tests using QuickCheck that will test your solution
+
+#### Quick Sort for everyone!
+
+*TBD*
+
+#### FizzBuzz
+
+*TBD*
+
+### 3. Apples and oranges
+
+*TBD*
+
+### 4. Reverse Polish notation calculator
 
 *deadline: 1 week*
 
@@ -100,7 +127,7 @@ Could not evaluate '10 sdfsd /'
 2. "Haskell - Programming from first Principles" by Ch.Allen & J.Moronuki chapter 24 "Parser Combinators"
 3. "Programming Haskell" by Graham Hutton, chapter 8 "Functional Parsers"
 
-### 3. Advanced Calculator
+### 5. Advanced Calculator
 
 *deadline: 1 week*
 
