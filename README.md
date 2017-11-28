@@ -31,13 +31,13 @@ Once you've added yourself to that list, you can consider yourself enrolled :) F
 
 #### Exercises schedlue
 
-| Exercise                                                                        | Deadline         |
-| ------------------------------------------------------------------------------- | ----------------:|
-| 1. [Hello World](#1-hello-world)                                                | 03 December 2017 |
-| 2. Fun with lists                                                               | 10 December 2017 |
-| 3. Apples and oranges                                                           | 17 December 2017 |
-| 4. [Reverse Polish notation calculator](#4-reverse-polish-notation-calculator)  | 31 December 2017 |
-| 5. [Advanced Calculator](#5-advanced-calculator)                                | 07 January  2018 |
+| Exercise                                                                           | Deadline            |
+| ---------------------------------------------------------------------------------- | -------------------:|
+| 1. [Hello World](#1-hello-world)                                                   |    03 December 2017 |
+| 2. [Fun with lists](#2-fun-with-lists)                                             |    17 December 2017 |
+| 3. [Apples and oranges](#3-apples-and-oranges)                                     |    31 December 2017 |
+| 4. [Reverse Polish notation calculator](#4-reverse-polish-notation-calculator)     |    07 January  2018 |
+| 5. [Advanced Calculator](#5-advanced-calculator)                                   |    14 January  2018 |
 
 ## Exercises 
 
@@ -49,6 +49,10 @@ We will cover:
 1. How to init new Haskell project
 2. using the `IO` type
 3. divide project to modules
+
+This week is all about getting started. Familiarize yourself with [Stack](https://docs.haskellstack.org/en/stable/README/) and basic concepts of the language: function definition and application, module creation, `IO` type.
+
+Programs:
 
 #### 1. Write program that prints out "Hello worlds" and terminates
 
@@ -87,34 +91,55 @@ import Control.Monad (forever)
 
 ### 2. Fun with lists
 
-*deadline: 1 week*
+*deadline: 2 weeks*
 
 We will cover:
 1. List API
 2. Property based testing using Quick Check
 3. Our first typeclass: `Ord`
 
-This week we will do exercies that appear occasionally at job interviews: Quicksort algorithm and FizzBuzz. Both solutions should manifest the beauty of the Haskell language - once you are done, just compare them with anything written in any other programming language. 
+This week we will do exercies that appear occasionally at job interviews: Quicksort algorithm and FizzBuzz. Both solutions should manifest themself the beauty of the Haskell language - once you are done, just compare them with anything written in any other programming language. 
 They are both perfect for mastering some functions available for `List`. They also help get intuition when reasoning about lazy evaluation.
-Quicksort implementation will require to understand concept of a typeclass and usage of an `Ord` typeclass.
+Abstract verion of quicksort implementation will require to understand concept of a typeclass and usage of an `Ord` typeclass.
 We will also have to test our solutions, so this is great opportunity to introduce QuickCheck.
 
-#### Quick Sort for list of integers
+Programs:
 
-1. Implement a quick sort algorithm that will take list of integers as an input and return sorted list of integers as an output
-2. Write property based tests using QuickCheck that will test your solution
+#### Quicksort for list of integers
+
+1. Implement a [Quicksort](https://en.wikipedia.org/wiki/Quicksort) algorithm that will take list of integers as an input and return sorted list of integers as an output. We are not looking for the most performant version, just the simplest version of this well known divide and conquer algorithm.
+2. Write property based tests using QuickCheck that will test your solution. Think about the properties that you can check.
 
 #### Quick Sort for everyone!
 
-*TBD*
+1. Extend your Quicksort algorithm to work with list of any arbitrary type
+2. What are possible constraints on that type?
 
 #### FizzBuzz
 
-*TBD*
+1. Implement program [FizzBuzz](https://en.wikipedia.org/wiki/Fizz_buzz) that will take number as an input and generate list of strings as the output containg "fizzbuzz" sequence
+2. Can you think of any properties that you could test with QuickCheck?
 
 ### 3. Apples and oranges
 
-*TBD*
+*deadline: 1 week*
+
+Programs:
+
+### Shopping cart
+
+1. You are building a checkout system for a shop which only sells apples and oranges.
+2. Apples cost 60p and oranges cost 25p.
+3. Build a checkout system which takes a list of items scanned at the till and outputs the total cost
+    For example: [ Apple, Apple, Orange, Apple ] => £2.05
+
+### Simple offers
+
+The shop decides to introduce two new offers 
+** buy one, get one free on Apples 
+** 3 for the price of 2 on Oranges
+
+Update your checkout functions accordingly
 
 ### 4. Reverse Polish notation calculator
 
@@ -180,11 +205,6 @@ Originally Haskell Univiersty intent is to provide challenges, problems to solve
 #### 2. I'm senior Haskell developer, can I help?
 Yes! We need your help. We need experienced Haskell developers to create exercies for us, to challange students. If you have an idea for an exercise, please submit an issue or add it directly as a pull request to README.md
 
-## Inspiraton talks
 
-Talks that go beyond "what is functor"
-
-https://www.youtube.com/watch?v=CT0HvjWoIqE
-https://www.youtube.com/watch?v=77RXha9tU_k
 
 
