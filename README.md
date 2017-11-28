@@ -7,17 +7,22 @@ Portfolio-based approach to learning Haskell
 
 Haskell Univiersty is a community driven project, where one can learn Haskell by solving exercieses. You will create programs that each week will gain on complexity.  Aim is to learn both the language as well as its real world application by exploring as many libraries, frameworks and tools as possible.
 
+Haskell University is designed to be self-paced, each exercies has a deadline estimated in weeks - you can start at anytime and just keep your private schedlue. However because it hardly ever works :), starting 26th Novemeber we initialized first edition that will keep public schedlue. If you will take that challange, please create PR adding yourself to
+
 For more information, see our [FAQ](#faq). If you are experienced Haskell developer, please [see 2.](#2-im-senior-haskell-developer-can-i-help)
 
-## New semster just started!
+## First Edition!
 
 First edition of Haskell University just started! You can join by adding your name to the list of students with a link to the repository where you will push your solutions to the exercies.
+
+### Students
 
 | Student         | Repository                                                                  |
 | --------------- | --------------------------------------------------------------------------- |
 | Pawel Szulc     | [solutions](https://github.com/rabbitonweb/HaskellUniversity-semester1)     |
 | Lukasz Byczynski| [solutions](https://github.com/LukaszByczynski/HaskellUniversity-semester1) |
 
+#### Exercises schedlue
 
 | Exercise                                                                        | Deadline         |
 | ------------------------------------------------------------------------------- | ----------------:|
