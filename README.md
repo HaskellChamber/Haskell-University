@@ -7,13 +7,20 @@ Portfolio-based approach to learning Haskell
 
 Haskell Univiersty is a community driven project, where one can learn Haskell by solving exercieses. You will create programs that each week will gain on complexity.  Aim is to learn both the language as well as its real world application by exploring as many libraries, frameworks and tools as possible.
 
-Haskell University is designed to be self-paced, each exercies has a deadline estimated in weeks - you can start at anytime and just keep your private schedlue. However because it hardly ever works :), starting 26th Novemeber we initialized first edition that will keep public schedlue. If you will take that challange, please create PR adding yourself to
+Haskell University is designed to be self-paced, each exercies has a deadline estimated in weeks - you can start at anytime and just keep your private schedlue. However because it hardly ever works :), starting 26th Novemeber we initialized first edition that will keep public schedlue. If you will take that challange, please create PR adding yourself to the [list of students](#students)!
+
+This is community driven project. You are more then welcome to share your ideas, PRs and comments!
 
 For more information, see our [FAQ](#faq). If you are experienced Haskell developer, please [see 2.](#2-im-senior-haskell-developer-can-i-help)
 
 ## First Edition!
 
-First edition of Haskell University just started! You can join by adding your name to the list of students with a link to the repository where you will push your solutions to the exercies.
+First edition of Haskell University just started! 
+
+### How can I join?
+
+You can join by adding your name to the [list of students](#students) with a link to the repository where you will push your solutions to the exercies. This is purely done for transparency. You will see other people taking part in the challange, so we all can learn from each other.
+Once you've added yourself to that list, you can consider yourself enrolled :) From now on you must solve each exercise by the end of the deadline. We have [a gitter channel](https://gitter.im/HaskellChamber/Haskell-University?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) where you can talk with fellow students, exchange ideas, reason about solutions.
 
 ### Students
 
