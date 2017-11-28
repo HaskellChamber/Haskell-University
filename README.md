@@ -151,37 +151,6 @@ res1: 70
 Could not evaluate 'res1 res50 /'
 ```
 
-## Ideas for future exercises
-### CRUD logic
-Create program holding some CRUD logic (like Library where you can borrow, return, remove and list all books).
-### Simple CRUD http server with Servant (https://haskell-servant.github.io/)
-### Simple CRUD web application with YASOD
-### Something with concurrent programming using threads
-### Usage of MVar
-### Learning Free by creating file system abstraction (FSA)
-### Implement FSA for Hadoop
-### Implement FSA for ElasticSearch
-### Implement FSA for Postgress
-### Implement FSA for Cassandra
-### distributed-process
-- implement ping-pong
-- implement chat server
-### Exercise that uses extension: OverloadedStrings
-### Exercise that uses extension: BangPatterns
-### Exercise that uses extension: GADTs
-### Exercise that uses extension: DeriveFunctor
-### Exercise that uses extension: DeriveGeneric
-### Exercise that uses extension: LambdaCase
-### Exercise that uses extension: ScopedTypeVariables
-### Exercise that uses extension: DeriveFoldable
-### Exercise that uses extension: RankNTypes
-### Exercise that uses extension: GeneralizedNewtypeDerivin
-### Testing tools 
-#### Quickcheck
-#### HUnit?
-### TicTacToe in Haskell
-Sth like https://www.youtube.com/playlist?list=PLguYJK7ydFE7KBfUplAk_qLp--xG6gw3R (maybe even rip off :) )
-
 ## Inspiraton talks
 
 Talks that go beyond "what is functor"
