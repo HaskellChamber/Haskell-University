@@ -6,7 +6,8 @@ Portfolio-based approach to learning Haskell
 ### About
 
 Haskell Univiersty is a community driven project, where one can learn Haskell by solving exercieses. You will create programs that each week will gain on complexity.  Aim is to learn both the language as well as its real world application by exploring as many libraries, frameworks and tools as possible.
-For more information, see our FAQ.
+
+For more information, see our [FAQ](#faq). If you are experienced Haskell developer, please [see 2.](#2-im-senior-haskell-developer-can-i-help)
 
 ## New semster just started!
 
