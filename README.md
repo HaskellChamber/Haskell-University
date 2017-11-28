@@ -112,6 +112,11 @@ Programs:
 1. Implement a [Quicksort](https://en.wikipedia.org/wiki/Quicksort) algorithm that will take list of integers as an input and return sorted list of integers as an output. We are not looking for the most performant version, just the simplest version of this well known divide and conquer algorithm.
 2. Write property based tests using QuickCheck that will test your solution. Think about the properties that you can check.
 
+```
+$ stack exec exercise2-exe 3 32 2 1 2 5 5 321 1 123 12 3 43 345
+[1,1,2,2,3,3,5,5,12,32,43,123,321,345]
+```
+
 #### Quick Sort for everyone!
 
 1. Extend your Quicksort algorithm to work with list of any arbitrary type
