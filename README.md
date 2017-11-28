@@ -3,6 +3,11 @@
 
 Portfolio-based approach to learning Haskell
 
+### About
+
+Haskell Univiersty is a community driven project, where one can learn Haskell by solving exercieses. You will create programs that each week will gain on complexity.  Aim is to learn both the language as well as its real world application by exploring as many libraries, frameworks and tools as possible.
+For more information, see our FAQ.
+
 ## New semster just started!
 
 First edition of Haskell University just started! You can join by adding your name to the list of students with a link to the repository where you will push your solutions to the exercies.
@@ -150,6 +155,17 @@ res1: 70
 > res1 res50 /
 Could not evaluate 'res1 res50 /'
 ```
+
+
+### FAQ
+
+#### 1. Will you provide lectures notes?
+Originally Haskell Univiersty intent is to provide challenges, problems to solve. It's the student responsibility to explore the topic on his/her own. However 
+1. occasionally we will point to book chapters, blog posts as hints for the exercies
+2. we encourage community to post solutions to the problems (via blogposts, gists, repositories, youtube videos), we will be more then happy to include them as solutions along the exercies. 
+
+#### 2. I'm senior Haskell developer, can I help?
+Yes! We need your help. We need experienced Haskell developers to create exercies for us, to challange students. If you have an idea for an exercise, please submit an issue or add it directly as a pull request to README.md
 
 ## Inspiraton talks
 
