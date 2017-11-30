@@ -1,6 +1,6 @@
 module Main where
 
-import Lib
+import Program3
 
 main :: IO ()
 main = exercise1

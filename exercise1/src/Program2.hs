@@ -1,11 +1,9 @@
-module Lib
+module Program2
     ( exercise1
     ) where
 
-import Control.Monad (forever)
-
 exercise1 :: IO ()
-exercise1 = forever $ do
+exercise1 = do
     putStrLn "Hello, what is your name?"
     name <- getLine
     putStrLn ("Nice to meet you " ++ (name :: String))
