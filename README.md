@@ -25,13 +25,15 @@ Once you've added yourself to that list, you can consider yourself enrolled :) F
 
 ### Students
 
-| Student         | Repository                                                                  |
-| --------------- | --------------------------------------------------------------------------- |
-| Pawel Szulc     | [solutions](https://github.com/rabbitonweb/HaskellUniversity-semester1)     |
-| Lukasz Byczynski| [solutions](https://github.com/LukaszByczynski/HaskellUniversity-semester1) |
-| Bartosz Bonisławski| [solutions](https://github.com/bbonislawski/HaskellUniversity-semester1) |
-| Igor Mielientiev| [solutions](https://github.com/mielientiev/Haskell-University-semester1) |
-| Doug Fort       | [solutions](https://github.com/dougfort/Haskell-University-semester1)       |
+| Student             | Repository                                                                  |
+| ------------------- | --------------------------------------------------------------------------- |
+| Pawel Szulc         | [solutions](https://github.com/rabbitonweb/HaskellUniversity-semester1)     |
+| Lukasz Byczynski    | [solutions](https://github.com/LukaszByczynski/HaskellUniversity-semester1) |
+| Bartosz Bonisławski | [solutions](https://github.com/bbonislawski/HaskellUniversity-semester1)    |
+| Igor Mielientiev    | [solutions](https://github.com/mielientiev/Haskell-University-semester1)    |
+| Przemek Kamiński    | [solutions](https://github.com/CGenie/HaskellUniversity-semester1)          |
+| Christian Sakai     | [solutions](https://github.com/CGenie/HaskellUniversity-semester1)          |
+| Doug Fort       | [solutions](https://github.com/dougfort/Haskell-University-semester1)           |
 
 #### Exercises schedlue
 
