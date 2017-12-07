@@ -36,6 +36,7 @@ Once you've added yourself to that list, you can consider yourself enrolled :) F
 | Wisnu Adi Nurcahyo  | [solutions](https://github.com/wisn/Haskell-University-Solutions)           |
 | Doug Fort       | [solutions](https://github.com/dougfort/Haskell-University-semester1)           |
 | Florian Schmeller       | [solutions](https://github.com/fschmllr/HU-Semester1)           |
+| Christopher Davenport | [solutions](https://github.com/ChristopherDavenport/HaskellUniversity-semester1) |
 
 #### Exercises schedlue
 
