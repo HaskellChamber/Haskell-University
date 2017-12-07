@@ -6,9 +6,9 @@ Portfolio-based approach to learning Haskell
 
 ### About
 
-Haskell Univiersty is a community driven project, where one can learn Haskell by solving exercieses. You will create programs that each week will gain on complexity.  Aim is to learn both the language as well as its real world application by exploring as many libraries, frameworks and tools as possible.
+Haskell Univiersty is a community driven project, where one can learn Haskell by solving exercises. You will create programs that each week will gain on complexity.  Aim is to learn both the language as well as its real world application by exploring as many libraries, frameworks and tools as possible.
 
-Haskell University is designed to be self-paced, each exercies has a deadline estimated in weeks - you can start at anytime and just keep your private schedule. However because it hardly ever works :), starting 26th Novemeber we initialized first edition that will keep public schedule. If you will take that challange, please create PR adding yourself to the [list of students](#students)!
+Haskell University is designed to be self-paced, each exercise has a deadline estimated in weeks - you can start at anytime and just keep your private schedule. However because it hardly ever works :), starting 26th Novemeber we initialized first edition that will keep public schedule. If you will take that challenge, please create PR adding yourself to the [list of students](#students)!
 
 This is community driven project. You are more then welcome to share your ideas, PRs and comments!
 
@@ -20,7 +20,7 @@ First edition of Haskell University just started!
 
 ### How can I join?
 
-You can join by adding your name to the [list of students](#students) with a link to the repository where you will push your solutions to the exercises. This is purely done for transparency. You will see other people taking part in the challange, so we all can learn from each other.
+You can join by adding your name to the [list of students](#students) with a link to the repository where you will push your solutions to the exercises. This is purely done for transparency. You will see other people taking part in the challenge, so we all can learn from each other.
 Once you've added yourself to that list, you can consider yourself enrolled :) From now on you must solve each exercise by the end of the deadline. We have [a gitter channel](https://gitter.im/HaskellChamber/Haskell-University?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) where you can talk with fellow students, exchange ideas, reason about solutions.
 
 ### Students
@@ -36,8 +36,9 @@ Once you've added yourself to that list, you can consider yourself enrolled :) F
 | Wisnu Adi Nurcahyo  | [solutions](https://github.com/wisn/Haskell-University-Solutions)           |
 | Doug Fort       | [solutions](https://github.com/dougfort/Haskell-University-semester1)           |
 | Florian Schmeller       | [solutions](https://github.com/fschmllr/HU-Semester1)           |
+| Jaroslaw Jantura       | [solutions](https://github.com/jjantura/HU-Semester1)           |
 
-#### Exercises schedlue
+#### Exercises schedule
 
 | Exercise                                                                           | Deadline            |
 | ---------------------------------------------------------------------------------- | -------------------:|
@@ -212,12 +213,8 @@ Could not evaluate 'res1 res50 /'
 
 #### 1. Will you provide lectures notes?
 Originally Haskell University's intent is to provide challenges, problems to solve. It's the students responsibility to explore the topic on his/her own. However 
-1. occasionally we will point to book chapters, blog posts as hints for the exercies
+1. occasionally we will point to book chapters, blog posts as hints for the exercises
 2. we encourage the community to post solutions to the problems (via blogposts, gists, repositories, youtube videos), we will be more then happy to include them as solutions along the exercies. 
 
 #### 2. I'm senior Haskell developer, can I help?
-Yes! We need your help. We need experienced Haskell developers to create exercies for us, to challange students. If you have an idea for an exercise, please submit an issue or add it directly as a pull request to this README.md
-
-
-
-
+Yes! We need your help. We need experienced Haskell developers to create exercies for us, to challenge students. If you have an idea for an exercise, please submit an issue or add it directly as a pull request to this README.md
