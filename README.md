@@ -34,12 +34,15 @@ Once you've added yourself to that list, you can consider yourself enrolled :) F
 | Przemek Kamiński    | [solutions](https://github.com/CGenie/HaskellUniversity-semester1)          |
 | Christian Sakai     | [solutions](https://github.com/CGenie/HaskellUniversity-semester1)          |
 | Wisnu Adi Nurcahyo  | [solutions](https://github.com/wisn/Haskell-University-Solutions)           |
+| Doug Fort           | [solutions](https://github.com/dougfort/Haskell-University-semester1)           |
+| Florian Schmeller   | [solutions](https://github.com/fschmllr/HU-Semester1)                       |
 | Doug Fort           | [solutions](https://github.com/dougfort/Haskell-University-semester1)       |
 | Florian Schmeller   | [solutions](https://github.com/fschmllr/HU-Semester1)                       |
 | Doug Fort           | [solutions](https://github.com/dougfort/Haskell-University-semester1)       |
 | Florian Schmeller   | [solutions](https://github.com/fschmllr/HU-Semester1)                       |
 | Artur Czajka        | [solutions](https://github.com/tr00per/HaskellUniversity-solutions)         |
 | Eryk Ciepiela       | [solutions](https://github.com/erykciepiela/HaskellUniversity-semester1)    |
+| Stanislaw Findeisen | [solutions](https://github.com/sfindeisen/Haskell-University-1)             |
 
 #### Exercises schedlue
 
