@@ -47,7 +47,7 @@ Once you've added yourself to that list, you can consider yourself enrolled :) F
 | Christopher Davenport   | [solutions](https://github.com/ChristopherDavenport/HaskellUniversity-semester1) |
 | Andrew R. M.            | [solutions](https://github.com/nixy/haskell-university-solutions)                |
 | Michał Michalski        | [solutions](https://github.com/regispl/HaskellUniversity-semester1)              |
-
+| Bartek Kalinka          | [solutions](https://github.com/bartekkalinka/haskell-university-solutions)       |
 
 #### Exercises schedlue
 
