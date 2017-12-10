@@ -44,7 +44,7 @@ Once you've added yourself to that list, you can consider yourself enrolled :) F
 | Eryk Ciepiela           | [solutions](https://github.com/erykciepiela/HaskellUniversity-semester1)         |
 | Stanislaw Findeisen     | [solutions](https://github.com/sfindeisen/Haskell-University-1)                  |
 | Christopher Davenport   | [solutions](https://github.com/ChristopherDavenport/HaskellUniversity-semester1) |
-
+| Andrew R. M.            | [solutions](https://github.com/nixy/haskell-university-solutions)                |
 
 #### Exercises schedlue
 
