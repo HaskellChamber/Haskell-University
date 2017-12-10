@@ -29,6 +29,7 @@ Once you've added yourself to that list, you can consider yourself enrolled :) F
 | ----------------------  | -------------------------------------------------------------------------------- |
 | Pawel Szulc             | [solutions](https://github.com/rabbitonweb/HaskellUniversity-semester1)          |
 | Lukasz Byczynski        | [solutions](https://github.com/LukaszByczynski/HaskellUniversity-semester1)      |
+| Jakub Janczak           | [solutions](https://github.com/kubek2k/HaskellUniversityExercises)               |
 | Bartosz Bonisławski     | [solutions](https://github.com/bbonislawski/HaskellUniversity-semester1)         |
 | Igor Mielientiev        | [solutions](https://github.com/mielientiev/Haskell-University-semester1)         |
 | Przemek Kamiński        | [solutions](https://github.com/CGenie/HaskellUniversity-semester1)               |
@@ -46,6 +47,7 @@ Once you've added yourself to that list, you can consider yourself enrolled :) F
 | Christopher Davenport   | [solutions](https://github.com/ChristopherDavenport/HaskellUniversity-semester1) |
 | Andrew R. M.            | [solutions](https://github.com/nixy/haskell-university-solutions)                |
 | Michał Michalski        | [solutions](https://github.com/regispl/HaskellUniversity-semester1)              |
+
 
 #### Exercises schedlue
 
