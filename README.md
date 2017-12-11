@@ -162,6 +162,8 @@ The shop decides to introduce two new offers
 
 Update your checkout functions accordingly
 
+You can use QuickCheck to verify that the price after applying promotion is lower than before promotion (you can leverage custom generators if you used instances for Apple and Orange).
+
 ### 4. Reverse Polish notation calculator
 
 *deadline: 1 week*
