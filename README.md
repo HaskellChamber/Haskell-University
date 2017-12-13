@@ -45,7 +45,7 @@ Once you've added yourself to that list, you can consider yourself enrolled :) F
 | Michał Michalski        | [solutions](https://github.com/regispl/HaskellUniversity-semester1)              |
 | Bartek Kalinka          | [solutions](https://github.com/bartekkalinka/haskell-university-solutions)       |
 
-#### Labs schedlue
+# Labs schedule
 
 | Lab                                                                                | Deadline            |
 | ---------------------------------------------------------------------------------- | -------------------:|
