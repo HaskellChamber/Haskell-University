@@ -45,11 +45,11 @@ Once you've added yourself to that list, you can consider yourself enrolled :) F
 | Michał Michalski        | [solutions](https://github.com/regispl/HaskellUniversity-semester1)              |
 | Bartek Kalinka          | [solutions](https://github.com/bartekkalinka/haskell-university-solutions)       |
 
-#### Exercises schedlue
+#### Labs schedlue
 
-| Exercise                                                                           | Deadline            |
+| Lab                                                                                | Deadline            |
 | ---------------------------------------------------------------------------------- | -------------------:|
-| 1. [Hello World](#1-hello-world)                                                   |    03 December 2017 |
+| 1. [Hello World](Lab001.md)                                                        |    03 December 2017 |
 | 2. [Fun with lists](#2-fun-with-lists)                                             |    17 December 2017 |
 | 3. [Apples and oranges](#3-apples-and-oranges)                                     |    31 December 2017 |
 | 4. [Reverse Polish notation calculator](#4-reverse-polish-notation-calculator)     |    07 January  2018 |
@@ -57,53 +57,6 @@ Once you've added yourself to that list, you can consider yourself enrolled :) F
 
 ## Exercises 
 
-### 1. Hello World 
-
-*deadline: 1 week*
-
-We will cover:
-1. How to init a new Haskell project
-2. using the `IO` type
-3. divide project to modules
-
-This week is all about getting started. Familiarize yourself with [Stack](https://docs.haskellstack.org/en/stable/README/) and basic concepts of the language: function definition and application, module creation, `IO` type.
-
-Programs:
-
-#### 1. Write a program that prints out "Hello worlds" and terminates
-
-```
-$ stack exec exercise1-exe
-Hello World
-```
-
-#### 2. Write a program that welcomes the user, asks for his/her name, greets user and terminates
-
-```
-$ stack exec exercise1-exe
-Hello, what is your name?
-Pawel
-Nice to meet you Pawel
-```
-
-#### 3. Write a program that will run program 2. in an infinite loop
-
-```
-$ stack exec exercise1-exe
-Hello, what is your name?
-Pawel
-Nice to meet you Pawel
-Hello, what is your name?
-Mike
-Nice to meet you Mike
-Hello, what is your name?
-Kate
-Nice to meet you Kate
-Hello, what is your name?
-```
-
-*hints*: 
-import Control.Monad (forever)
 
 ### 2. Fun with lists
 
