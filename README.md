@@ -6,13 +6,13 @@ Portfolio-based approach to learning Haskell
 
 ### About
 
-Haskell Univiersty is a community driven project, where one can learn Haskell by solving exercieses. You will create programs that each week will gain on complexity.  Aim is to learn both the language as well as its real world application by exploring as many libraries, frameworks and tools as possible.
+Haskell Universty is a community driven project, where one can learn Haskell by solving exercises. You will create programs that each week will gain on complexity.  Aim is to learn both the language as well as its real world application by exploring as many libraries, frameworks and tools as possible.
 
-Haskell University is designed to be self-paced, each exercies has a deadline estimated in weeks - you can start at anytime and just keep your private schedule. However because it hardly ever works :), starting 26th Novemeber we initialized first edition that will keep public schedule. If you will take that challange, please create PR adding yourself to the [list of students](#students)!
+Haskell University is designed to be self-paced, each exercise has a deadline estimated in weeks - you can start at anytime and just keep your private schedule. However because it hardly ever works :), starting on 26th November we initialized the first edition that will keep public schedule. If you will take that challenge, please create PR adding yourself to the [list of students](#students)!
 
-This is community driven project. You are more then welcome to share your ideas, PRs and comments!
+This is a community driven project. You are more then welcome to share your ideas, PRs and comments!
 
-For more information, see our [FAQ](#faq). If you are experienced Haskell developer, please [see 2.](#2-im-senior-haskell-developer-can-i-help)
+For more information, see our [FAQ](#faq). If you are an experienced Haskell developer, please [see 2.](#2-im-senior-haskell-developer-can-i-help)
 
 ## First Edition!
 
