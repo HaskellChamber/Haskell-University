@@ -47,6 +47,7 @@ Once you've added yourself to that list, you can consider yourself enrolled :) F
 | Benjamin Weißenfels     | [solutions](https://github.com/pixeldrama/haskell-university-solutions)          |
 | Clite Tailor            | [solutions](https://github.com/clitetailor/haskell-university-solutions)         |
 | Alessandro Molari (alem0lars) | [solutions](https://github.com/alem0lars/haskell-university-solutions)     |
+| Jonatan Borkowski       | [solutions](https://github.com/jborkowski/haskell-university-solutions)          |
 
 # Labs schedule
 
