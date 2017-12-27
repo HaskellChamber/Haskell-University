@@ -16,7 +16,7 @@ For more information, see our [FAQ](#faq). If you are an experienced Haskell dev
 
 ## First Edition!
 
-First edition of Haskell University just started! 
+First edition of Haskell University just started!
 
 ### How can I join?
 
@@ -46,6 +46,7 @@ Once you've added yourself to that list, you can consider yourself enrolled :) F
 | Bartek Kalinka          | [solutions](https://github.com/bartekkalinka/haskell-university-solutions)       |
 | Benjamin Weißenfels     | [solutions](https://github.com/pixeldrama/haskell-university-solutions)          |
 | Clite Tailor            | [solutions](https://github.com/clitetailor/haskell-university-solutions)         |
+| Nagarjuna Pamu          | [solutions](https://github.com/pamu/haskell-university)                          |
 | Alessandro Molari (alem0lars) | [solutions](https://github.com/alem0lars/haskell-university-solutions)     |
 | Jonatan Borkowski       | [solutions](https://github.com/jborkowski/haskell-university-solutions)          |
 
